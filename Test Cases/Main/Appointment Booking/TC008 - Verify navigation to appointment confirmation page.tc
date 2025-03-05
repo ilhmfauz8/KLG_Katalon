@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC008 - Verify navigation to appointment confirmation page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a32e8c5f-f3eb-4f4e-8ab0-be9f2acf104a</testCaseGuid>
+</TestCaseEntity>

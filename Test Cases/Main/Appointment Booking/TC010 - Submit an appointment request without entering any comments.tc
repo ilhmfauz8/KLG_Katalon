@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC010 - Submit an appointment request without entering any comments</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8a0cabb2-1679-42da-9053-5aa993bfd583</testCaseGuid>
+</TestCaseEntity>

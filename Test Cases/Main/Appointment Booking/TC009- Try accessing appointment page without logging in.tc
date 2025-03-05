@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC009- Try accessing appointment page without logging in</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>96744c57-00be-44aa-9e5b-7b1aff7778dc</testCaseGuid>
+</TestCaseEntity>

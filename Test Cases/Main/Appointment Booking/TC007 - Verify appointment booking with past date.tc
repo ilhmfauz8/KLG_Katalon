@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC007 - Verify appointment booking with past date</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>56e6f9c7-9e3d-49b5-b50c-4bc411c28b3e</testCaseGuid>
+</TestCaseEntity>
